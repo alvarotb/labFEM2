@@ -14,8 +14,7 @@ sudo apt-get install libqt5xml5
 Nesta etapa, iremos importar a geometria da prótese que foi gerada no software Solid Edge, cujas dimensões são mostradas na figura abaixo.
 Nesta etapa, também será realizada a discretização da estrutura.
 
-[<img src="media/image1.png"/>](media/image1.png)
-[<img src="media/image1.png" width="420"/>](media/image1.png)
+[<img src="media/image1.png" width="120"/>](media/image1.png)
 
 
 2- No Elmer, abra o arquivo Cheetah.stp que se encontra na pasta
