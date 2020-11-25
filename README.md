@@ -19,7 +19,7 @@ Nesta etapa, também será realizada a discretização da estrutura.
 
 2- No Elmer, abra o arquivo AAA.stp que se encontra na pasta LabFEM_2
 
-[<img src="media/image2.png" width="420"/>](media/image2.png)
+[<img src="media/image2_2.png" width="420"/>](media/image2.png)
 
 
 3- Clique em Model \> Preferences
