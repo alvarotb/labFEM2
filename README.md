@@ -27,19 +27,19 @@ O ELmer mostrará o modelo da bateria, porém com uma malha grossa.
 
 Isso abrirá o visor de geometria (a maior parte das vezes ele já estará aberto)
 
-No visor da geometria clique em:
+ No visor da geometria clique em:
 
-Model \> Preferences
+  Model \> Preferences
 
-    Restrict mesh size on surfaces by STL density = on
+  Restrict mesh size on surfaces by STL density = on
 
-    Apply
+  Apply
     
-[<img src="media/image3.png" width="100"/>]
-    
-    
-    
+[<img src="media/image3.png" width="150"/>](media/image3.png)
+
 No ElmerGUI clique em: Mesh \> Remesh
+
+[<img src="media/image2.png" width="200"/>](media/image2.png)
 
 @@ -52,7 +52,7 @@ restrict mesh size on surface\...
 5- Clique em Apply e feche a caixa ElmerGUI geometry viewer. Agora
