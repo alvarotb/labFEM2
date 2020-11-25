@@ -11,16 +11,14 @@ sudo apt-get install libqt5xml5
 1- No terminal, entre na pasta do curso SCM2020 e depois na pasta LabFEM_2. Ainda no terminal abra o software Elmer com o comando
 **ElmerGUI**
 **Importando a Geometria (CAD)**
-Nesta etapa, iremos importar a geometria da prótese que foi gerada no software Solid Edge, cujas dimensões são mostradas na figura abaixo.
+Nesta etapa, iremos importar a geometria da prótese que foi gerada no software Solid Edge.
 Nesta etapa, também será realizada a discretização da estrutura.
 
-[<img src="media/image1.png" width="120"/>](media/image1.png)
+[<img src="media/image1.png" width="200"/>](media/image1.png)
 
 
-2- No Elmer, abra o arquivo Cheetah.stp que se encontra na pasta
-LabFEM_1
+2- No Elmer, abra o arquivo AAA.stp que se encontra na pasta LabFEM_2
 
-[<img src="media/image2.png"/>](media/image2.png)
 [<img src="media/image2.png" width="420"/>](media/image2.png)
 
 
