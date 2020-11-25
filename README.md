@@ -8,7 +8,7 @@ No terminal, tente abrir o software com o comando **ElmerGUI**. Caso o sistema a
 sudo apt-get install libqt5xml5
 ```
 ### Tutorial -- Distribuição de temperatura em uma bateria de Li
-1- No terminal, entre na pasta do curso SCM2020 e depois na pasta LabFEM_2. Ainda no terminal abra o software Elmer com o comando
+1. No terminal, entre na pasta do curso SCM2020 e depois na pasta LabFEM_2. Ainda no terminal abra o software Elmer com o comando
 **ElmerGUI**
 **Importando a Geometria (CAD)**
 Nesta etapa, iremos importar a geometria da prótese que foi gerada no software Solid Edge.
@@ -17,13 +17,13 @@ Nesta etapa, também será realizada a discretização da estrutura.
 [<img src="media/image1.png" width="200"/>](media/image1.png)
 
 
-2- No Elmer, abra o arquivo AAA.stp que se encontra na pasta LabFEM_2
+2. No Elmer, abra o arquivo AAA.stp que se encontra na pasta LabFEM_2
 
 [<img src="media/image2_2.png" width="420"/>](media/image2_2.png)
 
 O ELmer mostrará o modelo da bateria, porém com uma malha grossa. 
 
-3- Para refinar a malha clique em View \> Cad model
+3. Para refinar a malha clique em View \> Cad model
 
 Isso abrirá o visor de geometria (a maior parte das vezes ele já estará aberto)
 
@@ -35,13 +35,21 @@ Model \> Preferences
 
 &nbsp;&nbsp;&nbsp;&nbsp;Apply
     
-[<img src="media/image3.png" width="150"/>](media/image3.png)
+[<img src="media/image3.png" width="350"/>](media/image3.png)
 
 No ElmerGUI clique em: Mesh \> Remesh
 
+Obterá uma malha mais refinada.
+
 [<img src="media/image2.png" width="200"/>](media/image2.png)
 
+4. Agora precisamos unificar as superfícies para definir as condições de contorno.
+Selecionar com clique duplo + Ctrl as três superfícies. Logo clique em
 
+&nbsp;&nbsp;&nbsp;&nbsp;Mesh
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unify Surface
+
+[<img src="media/image4.png" width="200"/>](media/image4.png)
 
 ### Referências e informações adicionais
 
