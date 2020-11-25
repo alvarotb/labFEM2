@@ -24,10 +24,15 @@ Nesta etapa, também será realizada a discretização da estrutura.
 O ELmer mostrará o modelo da bateria, porém com uma malha grossa. 
 
 3- Para refinar a malha clique em View \> Cad model
+
 Isso abrirá o visor de geometria (a maior parte das vezes ele já estará aberto)
+
 No visor da geometria clique em:
+
 Model \> Preferences
+
     Restrict mesh size on surfaces by STL density = on
+
     Apply
     
 [<img src="media/image3.png" width="100"/>]
