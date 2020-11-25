@@ -50,6 +50,7 @@ Logo clique em: Mesh \> Unify Surface
 [<img src="media/image4.png" width="300"/>](media/image4.png)
 
 5- Difiniremos o tipo de simulação (estado estacionário). Clique em:
+
 &nbsp;&nbsp;&nbsp;&nbsp;Model
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setup
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simulation Type = Steady state
