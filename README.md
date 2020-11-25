@@ -44,10 +44,7 @@ Obterá uma malha mais refinada.
 [<img src="media/image2.png" width="200"/>](media/image2.png)
 
 4. Agora precisamos unificar as superfícies para definir as condições de contorno.
-Selecionar com clique duplo + Ctrl as três superfícies. Logo clique em
-
-&nbsp;&nbsp;&nbsp;&nbsp;Mesh
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unify Surface
+Selecionar com clique duplo + Ctrl as três superfícies. Logo clique em: Mesh \> Unify Surface
 
 [<img src="media/image4.png" width="200"/>](media/image4.png)
 
